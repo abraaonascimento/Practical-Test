@@ -1,4 +1,4 @@
-![](api.png)
+![](api.jpg)
 
 # Why Application Programming Interface (API)?
 API are highly used to make the work easier and speed up the development process of other systems and applications. Because of that, many private and public companies make available their data via API services. The main goal is to allow applications to access data and interact with external software components.
