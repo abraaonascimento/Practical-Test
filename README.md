@@ -1,3 +1,5 @@
+![](api.png)
+
 # Why Application Programming Interface (API)?
 API are highly used to make the work easier and speed up the development process of other systems and applications. Because of that, many private and public companies make available their data via API services. The main goal is to allow applications to access data and interact with external software components.
 To simplify this explanation let's just take TomTom Maps API as an example. TomTom provides maps and traffic data, with global coverage & advanced functionalities to companies integrate map and traffic data into their systems. Instead of creating a map service from scratch, companies that use API services from other companies can be more concentrated on solving their business problem instead of solving every single problem that needs to be solved to make their product viable.
