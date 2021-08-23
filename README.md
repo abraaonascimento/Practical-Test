@@ -4,7 +4,7 @@ To simplify this explanation let's just take TomTom Maps API as an example. TomT
 
 Knowing that private and public companies have been making their data available via APIs it is crucial for people that work with data to understand how API services work and how to query data and extract data from it.
 
-# Agenda:
+### Topics covered in this tutorial:
 1. Set up environment.
 2. What is an API?
 3. JSON and GEOJSON structures
@@ -12,3 +12,6 @@ Knowing that private and public companies have been making their data available 
 5. More examples of companies that make data available via APIs
 6. Challenges - TomTom Maps API.
 7. Mention.
+
+### Link to virtual enviroment to test and run the code
+* [1 Hour API Training](https://mybinder.org/v2/gh/abraaonascimento/1_Hour_API_Training/HEAD) - After the set up, click in 1_hour_api_training.ipynb to open the notebook.
