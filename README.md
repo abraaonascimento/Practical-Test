@@ -5,7 +5,7 @@
 The data flow consisting of 5 steps. 
 
 - Step 1: Gets the .log, .csv and .json files available in the  from the `/data` folder.
-- Step 2: Reading data on-demand (Chuck size of 100.000) 
+- Step 2: Reading data on-demand (chunk size of 100.000) 
 - Step 3: Normalizes the data in order to make them well structured, easy to read and to query.
 - Step 4: Loads data by batch into a PostgreSQL database 
 - Step 5: Query the data and save the results in csv files.
