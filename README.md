@@ -11,7 +11,7 @@ The data flow consisting of 5 steps.
 - Step 5: Query the data and save the results in csv files.
 
 ### Documentation
-* At `/docs` there is a technical documentation available in 3 formats .pdf, .html, .ipynb. If you want to read and have a better experience reading it open the .html file (this code/doc is a **SIMPLIFIED** version just to explose in a good visual the results) 
+* At `/docs` there is a technical documentation available in 3 formats .pdf, .html, .ipynb. If you want to read and have a better experience reading it open the .html file (this code/doc is a **SIMPLIFIED** version just to present in a good visual the results).
 
 **The production code is available in:** `/source_code/`
 
