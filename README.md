@@ -10,7 +10,7 @@ The data flow consisting of 5 steps.
 - Step 4: Loads data by batch into a PostgreSQL database 
 - Step 5: Query the data and save the results in csv files.
 
-### Documentation
+### Documents
 * At `/docs` there is a technical documentation available in 3 formats .pdf, .html, .ipynb. If you want to read and have a better experience reading it open the .html file (this code/doc is a **SIMPLIFIED** version just to present some data analysis in a good visual and the results).
 
 **The production code is available in:** `/source_code/`
