@@ -1,7 +1,7 @@
 # Challenge
 ![](images/basic_design.jpg)
 
-#### How does the process work?
+### How does the process work?
 The data flow consisting of 5 steps. 
 
 - Step 1: Gets the .log, .csv and .json files available in the  from the `/data` folder.
@@ -15,7 +15,7 @@ The data flow consisting of 5 steps.
 
 **The production code is available in:** `/source_code/`
 
-#### Deployment / Set up
+### Deployment / Set up
 * The requirements needed to run this project are available at `/source_code/` 
 
 **Tools**
@@ -24,7 +24,7 @@ The data flow consisting of 5 steps.
     - database must contain the extension hstore
     - database name, credentials can be set on the .env file
 
-#### Production Code / Run via command line
+### Production Code / Run via command line
 * The production code (script) can executed via command line in `/source_code/DataEngineer_PraticalTest.py`.
 - Command: *Python DataProcessing.py*
 
@@ -33,11 +33,11 @@ The data flow consisting of 5 steps.
 - How to Run. Example:
 ![](images/terminal.jpg)
 
-#### Possible extra features
+### Possible extra features
 This report can be extended to a Django end-point API which makes it easy to be integrated into other systems or a report can be automatically created using open source tools like https://streamlit.io/ or paid as Power BI. 
 
-#### Final Comments
+### Final Comments
 This process could have used parallelism (with dask python library for example) to make the data load faster, but using parallelism requieres more ram memory. The main idea was to have a good and fast process without running out of memory.
 
-#### Author
+### Author
 * Abraão Nascimento, Data Engineer, linkedin: https://www.linkedin.com/in/abra%C3%A3o-nascimento-39915162/
