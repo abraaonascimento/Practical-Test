@@ -31,7 +31,7 @@ The data flow consisting of 5 steps.
 **The output will be saved in .csv files.**
 
 - How to Run. Example:
-![](images/Terminal.jpg)
+![](images/terminal.jpg)
 
 #### Possible extra features
 This report can be extended to a Django end-point API which makes it easy to be integrated into other systems or a report can be automatically created using open source tools like https://streamlit.io/ or paid as Power BI. 
