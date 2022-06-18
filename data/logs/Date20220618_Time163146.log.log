@@ -1,0 +1,4 @@
+2022-06-18 16:31:46.401 | INFO     | __main__:<module>:59 - Process has been started.
+2022-06-18 16:31:47.179 | INFO     | __main__:<module>:61 - Data Processing has been completed!
+2022-06-18 16:31:47.182 | INFO     | __main__:<module>:63 - Creating output files
+2022-06-18 16:31:48.176 | INFO     | __main__:<module>:68 - Data save has been saved and is available into the data/output folder.
