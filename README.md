@@ -37,7 +37,7 @@ The data flow consisting of 5 steps.
 This report can be extended to a Django end-point API which makes it easy to be integrated into other systems or a report can be automatically created using open source tools like https://streamlit.io/ or paid as Power BI. 
 
 ### Final Comments
-This process could have used parallelism (with dask python library for example) to make the data load faster, but using parallelism requieres more ram memory. The main idea was to have a good and fast process without running out of memory.
+This process could have used parallelism (with dask python library for example) to make the data load faster, but using parallelism requieres more RAM memory. The main idea was to have a good and fast process without running out of memory.
 
 ### Author
 * Abraão Nascimento, Data Engineer, linkedin: https://www.linkedin.com/in/abra%C3%A3o-nascimento-39915162/
