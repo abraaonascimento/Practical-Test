@@ -16,8 +16,8 @@ The data flow consisting of 5 steps.
 **The production code is available in:** `/source_code/`
 
 ### Production Code / Run via command line
-* The production code (script) can executed via command line in `/source_code/DataEngineer_PraticalTest.py`.
-- Command: *Python DataProcessing.py*
+* The production code (script) can executed via command line in `/source_code/`.
+- Command: *Python DataProcessing.py* or  *Python3 DataProcessing.py (in Linux)*
 
 **The output will be saved in .csv files.**
 
