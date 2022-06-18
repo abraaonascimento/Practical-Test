@@ -15,15 +15,6 @@ The data flow consisting of 5 steps.
 
 **The production code is available in:** `/source_code/`
 
-### Deployment / Set up
-* The requirements needed to run this project are available at `/source_code/` 
-
-**Tools**
-* Python >= 3.8 
-* PostgreSQL 
-    - database must contain the extension hstore
-    - database name, credentials can be set on the .env file
-
 ### Production Code / Run via command line
 * The production code (script) can executed via command line in `/source_code/DataEngineer_PraticalTest.py`.
 - Command: *Python DataProcessing.py*
@@ -33,6 +24,15 @@ The data flow consisting of 5 steps.
 - How to Run. Example:
 ![](images/terminal.jpg)
 
+### Deployment / Set up
+* The requirements needed to run this project are available at `/source_code/` 
+
+**Tools**
+* Python >= 3.8 
+* PostgreSQL 
+    - database must contain the extension hstore
+    - database name, credentials can be set on the .env file
+   
 ### Possible extra features
 This report can be extended to a Django end-point API which makes it easy to be integrated into other systems or a report can be automatically created using open source tools like https://streamlit.io/ or paid as Power BI. 
 
