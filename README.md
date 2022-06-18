@@ -1,4 +1,4 @@
-# Pratical Test
+# Challenge
 ![](images/basic_design.jpg)
 
 #### How does the process work?
